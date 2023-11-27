@@ -16,7 +16,7 @@
     "jsvu": "git+https://github.com/GoogleChromeLabs/jsvu.git",
     "lite-server": "^2.5.3",
     "node": "lts",
-    "npm": "^6.13.7",
+    "npm": "^7.0.0",
     "puppeteer": "^1.17.0"
   }
 }
